@@ -116,7 +116,7 @@ Develop real-time operational dashboards.
 Track emergency room KPIs continuously.
 
 Project Outcome:
-This project successfully transformed raw hospital emergency room data into actionable insights. The dashboard enables healthcare decision-makers to:
+This project successfully transformed raw hospital emergency room data into actionable insights. The dashboard enables healthcare decision-makers 
 
 Monitor operational performance
 Improve patient care quality
@@ -124,3 +124,6 @@ Reduce waiting times
 Optimize resource utilization
 Enhance patient satisfaction
 Support strategic healthcare planning
+
+ Dashboard Preview
+![Hospital ER Dashboard](Dashboard.png)
