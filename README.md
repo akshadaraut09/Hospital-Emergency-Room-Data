@@ -127,3 +127,7 @@ Support strategic healthcare planning
 
  Dashboard Preview
 ![Hospital ER Dashboard](Dashboard.png)
+
+## Author
+   Akshada Raut.
+
